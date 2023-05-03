@@ -18,6 +18,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-oliveira-aa2b521b9/)](https://www.linkedin.com/in/gabriel-oliveira-aa2b521b9/)
 
+
+## Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+
+
 - Thanks for visiting.
 
 - Enjoy it!! o/
