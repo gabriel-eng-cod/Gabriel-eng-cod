@@ -23,7 +23,7 @@
 
 :e-mail:E-mail: cgob@ic.ufal.br
 
-:telephone_receiver:Celular: (82) 9 8120-0389
+:telephone_receiver:Phone: (82) 9 8120-0389
 
 
 ## Languages
@@ -58,7 +58,5 @@
 
 
 - Thanks for visiting.
-
-- Enjoy it!! o/
 
 ----------------------------------------------------------------------------------
