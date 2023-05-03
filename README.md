@@ -21,7 +21,7 @@
 
 ## Contact
 
-E-mail :e-mail: cgob@ic.ufal.br 
+:e-mail:E-mail: cgob@ic.ufal.br 
 
 
 - Thanks for visiting.
